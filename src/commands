@@ -1,0 +1,4 @@
+npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+
+npm i codemirror
+npm i react-codemirror2 --force
