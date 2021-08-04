@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-codepen-clone/static/css/main.b9c0c089.chunk.css",
+    "main.js": "/react-codepen-clone/static/js/main.8ed6c8b0.chunk.js",
+    "main.js.map": "/react-codepen-clone/static/js/main.8ed6c8b0.chunk.js.map",
+    "runtime-main.js": "/react-codepen-clone/static/js/runtime-main.b6077cef.js",
+    "runtime-main.js.map": "/react-codepen-clone/static/js/runtime-main.b6077cef.js.map",
+    "static/css/2.3ab096e1.chunk.css": "/react-codepen-clone/static/css/2.3ab096e1.chunk.css",
+    "static/js/2.6611df2d.chunk.js": "/react-codepen-clone/static/js/2.6611df2d.chunk.js",
+    "static/js/2.6611df2d.chunk.js.map": "/react-codepen-clone/static/js/2.6611df2d.chunk.js.map",
+    "index.html": "/react-codepen-clone/index.html",
+    "static/css/2.3ab096e1.chunk.css.map": "/react-codepen-clone/static/css/2.3ab096e1.chunk.css.map",
+    "static/css/main.b9c0c089.chunk.css.map": "/react-codepen-clone/static/css/main.b9c0c089.chunk.css.map",
+    "static/js/2.6611df2d.chunk.js.LICENSE.txt": "/react-codepen-clone/static/js/2.6611df2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6077cef.js",
+    "static/css/2.3ab096e1.chunk.css",
+    "static/js/2.6611df2d.chunk.js",
+    "static/css/main.b9c0c089.chunk.css",
+    "static/js/main.8ed6c8b0.chunk.js"
+  ]
+}
